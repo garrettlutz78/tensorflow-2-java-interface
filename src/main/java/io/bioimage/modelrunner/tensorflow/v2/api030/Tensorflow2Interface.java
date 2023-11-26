@@ -20,7 +20,7 @@
  */
 package io.bioimage.modelrunner.tensorflow.v2.api030;
 
-import com.google.protobuf.InvalidProtocolBufferException;
+import com.google
 
 import io.bioimage.modelrunner.bioimageio.description.ModelDescriptor;
 import io.bioimage.modelrunner.bioimageio.download.DownloadModel;
